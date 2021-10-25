@@ -1,4 +1,4 @@
-# Codapay Spam SMS
+# Spam-SMS
 
 command :
  - apt-get install nodejs
